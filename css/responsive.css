@@ -1,0 +1,152 @@
+@media (max-width: 991.98px)
+{
+	.wrap
+	{
+		display: none;
+	}
+	.ks-navbar-light
+	{
+		background: #000000 !important;
+		position: relative;
+		top: 0;
+		padding-top: 0;
+		padding-bottom: 0;
+	}
+	.ks-navbar-light .navbar-brand
+	{
+		color: #fff;
+		padding-top: 1rem;
+		padding-bottom: 1rem;
+	}
+	.ks-navbar-light .navbar-brand span
+	{
+		color: #ffa41b;
+	}
+	.ks-navbar-light .navbar-nav
+	{
+		padding-bottom: 20px;
+		margin-right: 0;
+	}
+	.ks-navbar-light .navbar-nav > .nav-item > .nav-link
+	{
+		padding-left: 0;
+		padding-right: 0;
+		padding-bottom: 0;
+		color: #fff;
+	}
+	.ks-navbar-light .navbar-nav > .nav-item.ks-seperator
+	{
+		padding-left: 0;
+		margin-left: 0;
+	}
+	.ks-navbar-light .navbar-nav > .nav-item.ks-seperator:before
+	{
+		display: none;
+	}
+	.ks-navbar-light .navbar-nav > .nav-item.active > a
+	{
+		color: #323edd;
+	}
+	.ks-navbar-light.scrolled .nav-item > .nav-link
+	{
+		padding-left: 0 !important;
+		padding-right: 0 !important;
+		padding-bottom: 0 !important;
+	}
+	.ks-navbar-light.scrolled .navbar-nav
+	{
+		background: none;
+		border-radius: 0px;
+		padding-left: 1rem !important;
+		padding-right: 1rem !important;
+		margin-left: 0 !important;
+	}
+	.hero-wrap
+	{
+		background-position: top center !important;
+	}
+	.slider-text h1
+	{
+		font-size: 40px;
+	}
+	.testimony-section .owl-nav
+	{
+    	display: none;
+	}
+	.testimony-wrap .text {
+    width: 100%;
+}
+	.ks-counter {
+    background-position: center center !important;
+}
+}
+
+@media (min-width: 992px)
+{
+	.ks-navbar-light .container
+	{
+		background: #fff;
+		border-radius: 4px;
+	}
+	.ks-intro
+	{
+    	margin-top: -200px;
+	}
+	.testimony-section .owl-nav .owl-prev
+	{
+    	right: 41px !important;
+	}
+	.testimony-section .owl-nav .owl-next
+	{
+		right: 0 !important;
+	}
+}
+@media (min-width: 768px)
+{
+	.services-2
+	{
+		margin-top: 30px;
+	}
+	.blog-entry {
+    margin-bottom: 30px;
+}
+}
+
+@media (max-width: 767.98px)
+{
+	.ks-section
+	{
+    	padding: 6em 0;
+	}
+	.info-wrap
+	{
+    	height: 400px;
+	}
+	.dbox
+	{
+		margin-bottom: 25px !important;
+		padding: 0 20px;
+	}
+	#map
+	{
+    	height: 300px;
+	}
+	.heading-section h2
+	{
+    	font-size: 28px;
+	}
+	.about-image {
+    height: 400px;
+    margin-bottom: 30px;
+}
+	.ks-counter .img {
+    height: 400px;
+    background-position: top center !important;
+}
+	.ks-counter .counter-wrap {
+    margin-bottom: 20px;
+}
+	.blog-entry {
+    margin-bottom: 30px;
+}
+}
